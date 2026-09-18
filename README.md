@@ -9,7 +9,7 @@ I design and ship focused products — not a SaaS storefront. The public surface
 | Project | What it is |
 |---------|------------|
 | **[GRYPS](https://gryps.vercel.app)** | Non-commercial R&D — connectivity resilience scoring for Nordic / Arctic remote operations |
-| **[FORGE](https://forge.henriquemoreira.eu)** | Internal self-hosted infrastructure OS (private) |
+| **[FORGE](https://forge.henriquemoreira.eu)** | Private internal infrastructure OS — not public |
 | **[Portfolio](https://henriquemoreira.eu)** | Public hub and live demos |
 
 ## Stack
