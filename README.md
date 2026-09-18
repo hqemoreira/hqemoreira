@@ -22,4 +22,4 @@ Prefer the contact paths on [henriquemoreira.eu](https://henriquemoreira.eu).
 
 ---
 
-*Earlier prototypes (Litrix, Grantemia, Velu, Lycaon, DisclAI, Iraun) are archived and linked from the portfolio for context only.*
+*Earlier prototypes (Litrix, Grantemia, Velu, Lycaon, DisclAI, Iraun) are linked from the portfolio for context only.*
