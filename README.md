@@ -2,15 +2,16 @@
 
 Espoo, Finland · Builder · OT security & infrastructure
 
-I design and ship focused products — not a SaaS storefront. Public surface is the portfolio; active work lives in a small set of repositories.
+I design and ship focused products — not a SaaS storefront. The public ones are non-commercial — built for reskilling, learning, and R&D.
 
 ## Active
 
 | Project | What it is |
 |---------|------------|
-| **[GRYPS](https://gryps.vercel.app)** | Non-commercial R&D — OT security / compliance assessment skill demo |
+| **[Portfolio](https://henriquemoreira.eu)** | Public hub — live demos and prototype index |
+| **[GRYPS](https://gryps.vercel.app)** | Live demo — OT security / compliance assessment skill |
+| **[Litrix](https://litrixeu.vercel.app)** | Research prototype — AI literacy & EU AI Act Article 4 compliance |
 | **FORGE** | Internal infrastructure OS — `forge.henriquemoreira.eu` (private — no public access) |
-| **[Portfolio](https://henriquemoreira.eu)** | Public hub and live demos |
 
 ## Stack I work with
 
@@ -22,4 +23,4 @@ Prefer the contact paths on [henriquemoreira.eu](https://henriquemoreira.eu).
 
 ---
 
-*Earlier prototypes (Litrix, Grantemia, Velu, Lycaon, DisclAI, Iraun) are linked from the portfolio for context only.*
+*Earlier prototypes (Grantemia, Velu, Lycaon, DisclAI, Iraun) are linked from the portfolio for context only.*
