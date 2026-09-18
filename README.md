@@ -2,19 +2,19 @@
 
 Espoo, Finland · Builder · OT security & infrastructure
 
-I design and ship focused products — not a SaaS storefront. Public surface is the portfolio; active work lives in a small set of repositories.
+I design and ship focused products — not a SaaS storefront. The public surface is the [portfolio](https://henriquemoreira.eu); active work lives in a small set of repositories.
 
 ## Active
 
 | Project | What it is |
 |---------|------------|
-| **[GRYPS](https://gryps.vercel.app)** | Non-commercial R&D — OT security / compliance assessment skill demo |
-| **[FORGE](https://forge-dun-zeta.vercel.app)** | Internal self-hosted infrastructure OS (private) |
+| **[GRYPS](https://gryps.vercel.app)** | Non-commercial R&D — connectivity resilience scoring for Nordic / Arctic remote operations |
+| **[FORGE](https://forge.henriquemoreira.eu)** | Internal self-hosted infrastructure OS (private) |
 | **[Portfolio](https://henriquemoreira.eu)** | Public hub and live demos |
 
-## Stack I work with
+## Stack
 
-Next.js · Vercel · Neon (PostgreSQL) · Resend · Mistral · TypeScript
+Next.js · Vite · React · Vercel · Neon (PostgreSQL) · Resend · Mistral · TypeScript
 
 ## Contact
 
@@ -22,4 +22,4 @@ Prefer the contact paths on [henriquemoreira.eu](https://henriquemoreira.eu).
 
 ---
 
-*Earlier prototypes (Litrix, Velu, Grantemia, DisclAI, Lycaon, Iraun) are archived and linked from the portfolio for context only.*
+*Earlier prototypes (LitrixEU, Velu, Grantemia, DisclAI, Lycaon, Iraun) are archived and linked from the portfolio for context only.*
