@@ -10,9 +10,10 @@ I design and ship focused **learning prototypes** to demonstrate skills — not 
 
 | Project | What it is |
 |---------|------------|
-| **[GRYPS](https://gryps.vercel.app)** | Non-commercial skill demo — connectivity resilience scoring for Nordic / Arctic remote operations |
-| **[FORGE](https://forge.henriquemoreira.eu)** | Private internal learning / infrastructure OS — not public |
 | **[Portfolio](https://henriquemoreira.eu)** | Public hub for non-commercial learning prototypes |
+| **[GRYPS](https://gryps.vercel.app)** | Non-commercial skill demo — connectivity resilience scoring for Nordic / Arctic remote operations |
+| **[Litrix](https://litrixeu.vercel.app)** | Non-commercial learning prototype — AI literacy / EU AI Act Article 4 compliance |
+| **[FORGE](https://forge.henriquemoreira.eu)** | Private internal learning / infrastructure OS — not public |
 
 ## Stack
 
@@ -24,4 +25,4 @@ Hiring / learning conversations only — prefer the contact paths on [henriquemo
 
 ---
 
-*Earlier learning prototypes (LitrixEU, Velu, Grantemia, DisclAI, Lycaon, Iraun) are archived and linked from the portfolio for context only — also non-commercial.*
+*Earlier learning prototypes (Velu, Grantemia, DisclAI, Lycaon, Iraun) are archived and linked from the portfolio for context only — also non-commercial.*
