@@ -12,6 +12,7 @@ I design and ship focused **learning prototypes** to demonstrate skills — not 
 |---------|------------|
 | **[Portfolio](https://henriquemoreira.eu)** | Public hub for non-commercial learning prototypes |
 | **[GRYPS](https://gryps.vercel.app)** | Non-commercial skill demo — connectivity resilience scoring for Nordic / Arctic remote operations |
+| **[Monopati](https://monopati.vercel.app)** | Personal study path — AI Solutions + satellite connectivity roadmap tracker (progress private per browser) |
 | **[Litrix](https://litrixeu.vercel.app)** | Non-commercial learning prototype — AI literacy / EU AI Act Article 4 compliance |
 | **[FORGE](https://forge.henriquemoreira.eu)** | Private internal learning / infrastructure OS — not public |
 
