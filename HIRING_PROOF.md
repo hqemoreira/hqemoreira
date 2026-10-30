@@ -20,7 +20,7 @@ I built a live research prototype that takes a Nordic / Arctic site profile and 
 ## System vs stamps
 
 - **The system (lead):** assess site → score (Model v0.4) → rank options → document Resilience Signature. Logic stays; stack is interchangeable.
-- **Stamps (secondary):** SAP · Power BI · CRM · BW — real Metsä Board sales/commercial ops tools; career evidence, not the hiring headline.
+- **Stamps (secondary):** SAP · Power BI · CRM · BW — real commercial-ops tools from prior roles; career evidence, not the hiring headline.
 - **Never lead with:** model logos, “I use Cursor/Claude,” or a tool wall without the closed loop.
 - **Walkthrough:** https://gryps.vercel.app/#advisor — no account / no email for the initial Signature.
 
