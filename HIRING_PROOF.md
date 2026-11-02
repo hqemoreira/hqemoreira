@@ -26,7 +26,7 @@ I built a live research prototype that takes a Nordic / Arctic site profile and 
 
 ## Secondary (only after GRYPS)
 
-- **Morea** (legacy Litrix host) — educational EU AI Act Article 4 Evidence Pack walkthrough. Not a compliance service.
+- **Morea** ([morea-pack.vercel.app](https://morea-pack.vercel.app)) — educational EU AI Act Article 4 Evidence Pack walkthrough. Not a compliance service.
 - **Monopati** — personal study roadmap tracker. Direction, not build proof.
 - **Archives** (Grantemia, Lycaon, DisclAI, Velu, Iraun) — frozen learning context if asked.
 
