@@ -26,6 +26,7 @@ I built a live research prototype that takes a Nordic / Arctic site profile and 
 
 ## Secondary (only after GRYPS)
 
+- **Triangora** ([triangora.vercel.app](https://triangora.vercel.app)) — multi-agent fact-verification research prototype (verifies existing claims; never generates intelligence). Non-commercial skill demo; GitHub private while under development. Not a verification SaaS.
 - **Morea** ([morea-pack.vercel.app](https://morea-pack.vercel.app)) — educational EU AI Act Article 4 Evidence Pack walkthrough. Not a compliance service.
 - **Monopati** — personal study roadmap tracker. Direction, not build proof.
 - **Archives** (Grantemia, Lycaon, DisclAI, Velu, Iraun) — frozen learning context if asked.
