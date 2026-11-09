@@ -8,7 +8,7 @@ Policy confirmed by owner (2026-09-18).
 | **GRYPS** | `hqemoreira/gryps` (private; screenshot) | Curate → then decide public | Not reachable from this agent run |
 | **FORGE** | private | **PRIVATE forever** | Skip |
 | **Profile README** | `hqemoreira/hqemoreira` | **PUBLIC** | PR open; env setup proposed for Save |
-| **Archived prototypes** | `litrix`, `disclai`, … (private) | Curate while private → decide | Not reachable from this agent run |
+| **Archived prototypes** | `morea`, `disclai`, … (private) | Curate while private → decide | Not reachable from this agent run |
 
 ## Why access still fails on this run
 

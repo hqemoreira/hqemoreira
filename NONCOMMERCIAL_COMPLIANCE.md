@@ -22,7 +22,7 @@ research prototype · skill demonstration · learning project · illustrative de
 - [ ] Live site hero or footer carries the same line
 - [ ] GitHub About/description updated
 - [ ] No commercial CTAs in UI
-- [ ] Morea / Litrix / compliance prototypes framed as **educational / illustrative**, not a service
+- [ ] Morea / compliance prototypes framed as **educational / illustrative**, not a service
 - [ ] FORGE stays private forever
 - [ ] No secrets in tree or history
 
@@ -39,7 +39,7 @@ Rules:
 - Remove or rewrite commercial language: Buy, pricing, customers, free trial, SaaS, launch, get compliant for your company, start free, subscribe, waitlist, billing.
 - Prefer: research prototype, skill demonstration, learning project, illustrative demo, educational.
 - CTAs: Open prototype only.
-- Soften any compliance-product copy (especially Morea / Litrix) to educational/illustrative.
+- Soften any compliance-product copy (especially Morea) to educational/illustrative.
 - Do NOT change GitHub visibility yourself; leave a PR note “ready for public after owner review”.
 - FORGE: if this is FORGE, stop — keep private forever.
 - Branch: cursor/<repo>-noncommercial-compliance-2284
@@ -52,5 +52,5 @@ Rules:
 |------|----------------|
 | `hqemoreira` (profile) | Updated in PR |
 | `portfolio` | Updated on branch `cursor/portfolio-noncommercial-framing-2284` (push may need in-repo agent) |
-| `gryps`, `litrix`, others | Run the prompt above inside each repo — not writable from this profile-only agent |
+| `gryps`, `morea`, others | Run the prompt above inside each repo — not writable from this profile-only agent |
 | FORGE | Skip |
